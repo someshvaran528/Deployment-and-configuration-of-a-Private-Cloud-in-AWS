@@ -89,7 +89,7 @@ Snapshot 8: Configuring route table
 Snapshot 9: Editing routes
 
  
-Snapshot 10: Creating route table
+Snapshot 10: Creating route table.
 
 
 
